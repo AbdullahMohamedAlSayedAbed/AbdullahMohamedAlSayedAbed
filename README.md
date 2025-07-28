@@ -13,7 +13,7 @@ I am a passionate Flutter developer with a strong focus on creating efficient, s
 
 ## Contact Information
 - **Email**: abedabdallah834@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/abdullah-abed-7b759b235/)
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/abdullah-abed-7b759b235/](https://www.linkedin.com/in/abdullah-mohamed-7b759b235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - **GitHub**: [Your GitHub Profile](https://github.com/AbdullahMohamedAlSayedAbed)
 
 <h3 align="left">Languages and Tools:</h3>
